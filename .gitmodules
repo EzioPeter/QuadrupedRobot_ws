@@ -4,3 +4,7 @@
 [submodule "src/FAST_LIO"]
 	path = src/FAST_LIO
 	url = https://github.com/EzioPeter/FAST_LIO.git
+[submodule "src/ego-planner"]
+	path = src/ego-planner
+	url = https://github.com/EzioPeter/ego-planner.git
+	branch = lite3_agx
