@@ -31,3 +31,8 @@ roslaunch livox_ros_driver2 msg_MID360.launch
 source devel/setup.bash
 roslaunch fast_lio mapping_mid360.launch
 ```
+- Terminal 3
+```
+source devel/setup.bash
+roslaunch ego_planner run_in_lite3.launch
+```
