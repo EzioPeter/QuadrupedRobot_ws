@@ -1,0 +1,14 @@
+{
+    "ros.distro": "noetic",
+    "python.autoComplete.extraPaths": [
+        "/home/agx002/QuadrupedRobot_ws/devel/lib/python3/dist-packages",
+        "/home/agx002/catkin_pkg/devel/lib/python3/dist-packages",
+        "/opt/ros/noetic/lib/python3/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/agx002/QuadrupedRobot_ws/devel/lib/python3/dist-packages",
+        "/home/agx002/catkin_pkg/devel/lib/python3/dist-packages",
+        "/opt/ros/noetic/lib/python3/dist-packages"
+    ],
+    "cmake.ignoreCMakeListsMissing": true
+}
