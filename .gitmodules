@@ -8,3 +8,6 @@
 	path = src/ego-planner
 	url = https://github.com/EzioPeter/ego-planner.git
 	branch = lite3_deploy
+[submodule "src/transform_odom"]
+	path = src/transform_odom
+	url = https://github.com/EzioPeter/transform_odom.git
