@@ -11,3 +11,4 @@
 [submodule "src/transform_odom"]
 	path = src/transform_odom
 	url = https://github.com/EzioPeter/transform_odom.git
+	branch = lite3
