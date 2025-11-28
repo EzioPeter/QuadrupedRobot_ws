@@ -23,6 +23,7 @@ cd src/livox_ros_driver2
 ## Run the code
 - Terminal 1
 ```
+sudo systemctl stop lightdm && sudo /usr/NX/bin/nxserver --restart
 source devel/setup.bash
 roslaunch livox_ros_driver2 msg_MID360.launch
 ```
