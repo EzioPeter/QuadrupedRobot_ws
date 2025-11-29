@@ -4,3 +4,4 @@ install/
 .catkin_workspace
 
 src/CMakeLists.txt
+compile_commands.json
