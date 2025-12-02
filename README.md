@@ -21,19 +21,12 @@ cd src/livox_ros_driver2
 ./build.sh ROS1
 ```
 ## Run the code
-- Terminal 1
+- VSCode Terminal
 ```
 sudo systemctl stop lightdm && sudo /usr/NX/bin/nxserver --restart
-source devel/setup.bash
-roslaunch livox_ros_driver2 msg_MID360.launch
 ```
-- Terminal 2
+- Log in the nomachine desktop and open a terminal
 ```
-source devel/setup.bash
-roslaunch fast_lio mapping_mid360.launch
-```
-- Terminal 3
-```
-source devel/setup.bash
-roslaunch ego_planner run_in_lite3.launch
+cd /path/to/QuadrupedRobot_ws/shfiles
+./start.sh
 ```
