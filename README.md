@@ -30,3 +30,4 @@ sudo systemctl stop lightdm && sudo /usr/NX/bin/nxserver --restart
 cd /path/to/QuadrupedRobot_ws/shfiles
 ./start.sh
 ```
+- Use rviz to point the goal position and select the auto mode on the gamepad, it will start the navigation.
