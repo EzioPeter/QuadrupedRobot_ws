@@ -14,3 +14,6 @@
 [submodule "src/lite3_deploy_pkgs/Lite3_ego_udp"]
 	path = src/lite3_deploy_pkgs/Lite3_ego_udp
 	url = https://github.com/EzioPeter/Lite3_ego_udp.git
+[submodule "src/lite3_deploy_pkgs/Lite3_ROS"]
+	path = src/lite3_deploy_pkgs/Lite3_ROS
+	url = https://github.com/EzioPeter/Lite3_ROS.git
